@@ -1,0 +1,8 @@
+Para compilar o código é necessário utilizar o comando "make" no terminal.
+
+Para executar o trabalho, utilize o comando ./Tp arquivo_de_entrada.txt
+
+Em "arquivo_de_entrada.txt" coloque um arquivo cujas entradas são 3 números separados por espaços:
+0 1 2
+3 4 5
+sendo: 0 e 3 - Vértices Origem // 1 e 3 - Vértices Destino // 2 e 5- Peso das Arestas
